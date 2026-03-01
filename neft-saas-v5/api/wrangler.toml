@@ -1,8 +1,0 @@
-name = "neft-saas-v5"
-main = "api/worker.mjs"
-compatibility_date = "2026-03-01"
-
-[[d1_databases]]
-binding = "DB"
-database_name = "neft_saas_v5"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
